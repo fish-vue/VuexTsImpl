@@ -1,5 +1,8 @@
 # vuex-ts-impl
+vue和ts整合的不好
+很多地方会失去自动类型推断，需要手动维护
 
+ts 就是 格式化的代码注释，不要想太多
 ## Project setup
 ```
 npm install
